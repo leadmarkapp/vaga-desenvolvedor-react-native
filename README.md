@@ -33,8 +33,8 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Concentração
 - Proatividade
 
-<strong>Ficou interessado?</strong>
-Entre em contato conosco enviando email para:
-<strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong>
-<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive Native
+<strong>Ficou interessado?</strong><br>
+Entre em contato conosco enviando email para:<br>
+<strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
+<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive Native<br>
 <strong>Atenção:</strong> anexar currículo
