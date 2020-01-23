@@ -5,6 +5,9 @@
 <h3 align="center">
   Vaga Desenvolvedor Reactive Native
 </h3>
+
+O que buscamos?
+
 Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar desafios e desejam trabalhar em projetos de inovação.
 
 Habilidades Técnicas:
