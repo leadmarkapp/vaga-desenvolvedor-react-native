@@ -1,4 +1,10 @@
-# Vaga Desenvolvedor Reactive Native
+<h1 align="center">
+    <img alt="GoStack" src="https://app.leadmark.com.br/public/themes/now/img/logo-leadmark-app-512.png" width="150px" />
+</h1>
+
+<h3 align="center">
+  Vaga Desenvolvedor Reactive Native
+</h3>
 Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar desafios e desejam trabalhar em projetos de inovação.
 
 Habilidades Técnicas:
