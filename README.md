@@ -33,6 +33,7 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Concentração
 - Proatividade
 
+<br>
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
