@@ -22,5 +22,5 @@ Habilidades Interpessoais:
 
 - Raciocínio lógico 
 - Concentração
-- Organização pessoal
+- Proatividade
 
