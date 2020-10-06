@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://app.leadmark.com.br/public/themes/now/img/logo-leadmark-app-512.png" width="150px" />
+    <img alt="GoStack" src="https://github.com/leadmarkapp/vaga-desenvolvedor-full-stack/blob/main/logo-leadmark-app-512.png?raw=true" width="150px" />
 </h1>
 
 <h3 align="center">
-  Vaga Desenvolvedor Reactive Native
+  Vaga | Desenvolvedor Reactive Native
 </h3>
 
 <strong>O que buscamos?</strong>
@@ -12,19 +12,22 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 
 <strong>Habilidades Técnicas:</strong>
 
-- Experiência em desenvolvimento de aplicativos mobile em React Native
-- Capacidade para criar novas funcionalidades
-- Aplicar melhores práticas de documentação de código desenvolvido
+- Experiência com desenvolvimento mobile utilizando <strong>React Native</strong>
+- Experiência em criação e comunicação API REST
+- Experiência com MySQL e SQL
 - Domínio com Git
-- API Rest
-- Publicação nas plataformas Android e iOS
-- Auxiliar em integrações do Back-End
+- Conhecimentos sólidos em <strong>Javascript</strong>
+- Node e <strong>React JS</strong>
+- Conhecimentos sólidos em HTML5 e CSS3
+- Boas práticas de documentação
 - Testes
 
 <strong>Diferenciais:</strong>
-- Cases / Aplicativos desenvolvidos
-- Conhecimento em linguages Back-End (PHP)
-- Gitlab
+
+- Cases / Aplicações desenvolvidas
+- Conhecimento de UI e boas noções de UX
+- Docker
+- Noções de padrões e arquitetura de software
 - Scrum
 
 <strong>Habilidades Interpessoais:</strong>
@@ -33,9 +36,16 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Concentração
 - Proatividade
 
+<strong>Locação e Contratação:</strong>
+
+- Presencial (possibilidade de ficar remoto alguns dias na semana)
+- Fortaleza, CE
+- CLT
+
+<br>
 <br>
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
-<strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
-<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive Native<br>
+<strong>leadmarkapp@gmail.com</strong>, cópia para <strong>leandro.mendestavares@gmail.com</strong><br>
+<strong>Assunto do email:</strong> Vaga Desenvolvedor Full Stack<br>
 <strong>Atenção:</strong> anexar currículo
