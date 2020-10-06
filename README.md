@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Vaga | Desenvolvedor Reactive Native
+  Vaga | Desenvolvedor React Native
 </h3>
 
 <strong>O que buscamos?</strong>
@@ -47,5 +47,5 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong>, cópia para <strong>leandro.mendestavares@gmail.com</strong><br>
-<strong>Assunto do email:</strong> Vaga | Desenvolvedor Reactive Native<br>
+<strong>Assunto do email:</strong> Vaga | Desenvolvedor React Native<br>
 <strong>Atenção:</strong> anexar currículo
